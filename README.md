@@ -2,4 +2,4 @@
 
 I'm bi, and i'm kinda dumb. >:3
 
-The only thing i'm good at is HTML and CSS.
+I like making websites with HTML/CSS and JS.
