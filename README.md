@@ -3,6 +3,7 @@
 I'm pan, and i'm kinda dumb. >:3
 
 I like making websites with HTML/CSS and JS.  
+Currently learning WinUI. Includes XAML/C#.  
   
 I'm fairly good at RLua. For creating roblox games.
 
