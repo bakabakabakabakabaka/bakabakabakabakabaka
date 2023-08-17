@@ -1,4 +1,4 @@
-### 👋 Hiya ;3
+### 👋 Heya :-)
 
 I'm bi, and i'm kinda dumb. >:3
 
