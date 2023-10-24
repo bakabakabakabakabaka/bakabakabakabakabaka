@@ -1,11 +1,11 @@
 ### 👋 Heya :-)
 
-I'm bi, and i'm kinda dumb.
+I'm kinda dumb.
 
 I like making websites with HTML/CSS and JS.  
-Currently learning WinUI. Includes XAML/C#.  
+Currently (RE)-learning WinUI. Includes XAML/C#.  
   
-I'm fairly good at RLua. For creating roblox games.
+I'm fairly fluent with RLua. For creating roblox games.
 
 ### ❓📊 Stats
 [![Baka's Github Stats](https://github-readme-stats.vercel.app/api?username=haiku-balls&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
